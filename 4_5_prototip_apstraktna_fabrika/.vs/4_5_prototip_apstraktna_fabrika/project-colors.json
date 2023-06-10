@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89044f3d-d670-413b-bead-26889ea0756c": {
+      "ProjectGuid": "89044f3d-d670-413b-bead-26889ea0756c",
+      "DisplayName": "01_prototip",
+      "ColorIndex": 0
+    },
+    "d1f3d3d4-c760-4d22-8ae6-b9dd6de1a5c5": {
+      "ProjectGuid": "d1f3d3d4-c760-4d22-8ae6-b9dd6de1a5c5",
+      "DisplayName": "02_prototip",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a50502ee-1e55-4caf-b9ce-0f5e011c8b4f": {
+      "ProjectGuid": "a50502ee-1e55-4caf-b9ce-0f5e011c8b4f",
+      "DisplayName": "03_prototip",
+      "ColorIndex": 2
+    },
+    "194ac362-e9b5-44a1-a3ff-e6d1dc45df0c": {
+      "ProjectGuid": "194ac362-e9b5-44a1-a3ff-e6d1dc45df0c",
+      "DisplayName": "05_06_apstraktna_fabrika",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

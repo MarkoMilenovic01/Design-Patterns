@@ -1,0 +1,13 @@
+{
+	"jsonObj": 	{
+		"a": 32,
+		"b": 1,
+		"c": null
+	},
+	"testArray": [
+		0,
+		93,
+		"test_string"
+	],
+	"d": "bla bla"
+}
